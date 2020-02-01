@@ -29,5 +29,4 @@
 
 >需要手动修改JDK的绝对路径
 
->在使用java -version 查看版本是否修改时。
->需要新建一个Shell窗口才能查看到Java真实版本
+>在使用java -version 查看版本是否修改时, 需要新建一个Shell窗口才能查看到Java真实版本
