@@ -22,7 +22,11 @@ print '''
    \_/ \___|_|  |___/_|\___/|_| |_|
                                    
                                    
-                                   
+The current java version:
+'''
+os.system('java -version')
+
+print '''
 >>>>>>press 1   Swtich to java 8 
 >>>>>>press 2   Swtich to java 11
 '''
