@@ -23,6 +23,8 @@
    \_/ \___|_|  |___/_|\___/|_| |_|
                                    
                                    
+>>>>>>press 1   Swtich to java 8 
+>>>>>>press 2   Swtich to java 11
 ```
 >用于Windows下Java版本的修改
 
