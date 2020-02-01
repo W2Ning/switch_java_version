@@ -1,12 +1,16 @@
-# switch_java_version
+### 用途
 
->用于Windows下Java版本的修改
+>用于Windows下Java版本的切换
+
+>需要在脚本中手动修改不同JDK版本JAVA_HOME的绝对路径
+
+### 使用
 
 >python2
 
 >以管理员身份运行
 
->需要在脚本中手动修改或添加不同JDK版本的绝对路径
+
 
 >在使用java -version 查看版本是否修改时, 需要新建一个Shell窗口才能查看到Java真实版本
 
