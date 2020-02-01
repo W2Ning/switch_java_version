@@ -12,7 +12,7 @@
 
 
 
->在使用java -version 查看版本是否修改时, 需要新建一个CMD窗口才能查看到Java真实版本
+>在使用java -version 查看版本是否被修改时, 需要新建一个CMD窗口才能查看到Java的当前版本
 
 `python switch_java_version.py`
 
