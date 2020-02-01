@@ -8,7 +8,7 @@
 
 >python2
 
->以管理员身份运行CMD或Powershell
+>以管理员身份运行CMD
 
 
 
