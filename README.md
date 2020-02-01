@@ -1,5 +1,15 @@
 # switch_java_version
 
+>用于Windows下Java版本的修改
+
+>python2
+
+>以管理员身份运行
+
+>需要在脚本中手动修改或添加不同JDK版本的绝对路径
+
+>在使用java -version 查看版本是否修改时, 需要新建一个Shell窗口才能查看到Java真实版本
+
 `python switch_java_version.py`
 
 ```
@@ -26,12 +36,4 @@
 >>>>>>press 1   Swtich to java 8 
 >>>>>>press 2   Swtich to java 11
 ```
->用于Windows下Java版本的修改
 
->python2
-
->以管理员身份运行
-
->需要在脚本中手动修改或添加不同JDK版本的绝对路径
-
->在使用java -version 查看版本是否修改时, 需要新建一个Shell窗口才能查看到Java真实版本
