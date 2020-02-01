@@ -1,4 +1,7 @@
 # switch_java_version
+
+`python switch_java_version.py`
+
 ```
    _____         _ _       _       
   / ____|       (_) |     | |      
