@@ -31,7 +31,7 @@ print '''
 >>>>>>press 1   Swtich to java 8 
 >>>>>>press 2   Swtich to java 11
 '''
-selection = int(input("The_version_you_want: "))
+selection = int(input("The_version_you_want:"))
 
 if selection == 1:
     os.system('setx /m JAVA_HOME "C:/Program Files/Java/jdk1.8.0_211"')
